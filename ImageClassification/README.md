@@ -8,3 +8,4 @@
 ![image](./data_for_readme/graph.png)
 
 ## The loss and the accuracy
+![image](./data_for_readme/Scalars.JPG)
